@@ -106,12 +106,6 @@
 | **관광** | 더 빠르고 친환경적인 이동수단 및 관광 범위 증가(달 여행 등) | 
 | **** | | 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="img/img1.png" style="width: 100%; height: auto;" />
-  <img src="img/img2.png" style="width: 100%; height: auto;" />
-  <img src="img/img3.jpeg" style="width: 100%; height: auto;" />
-  <img src="img/img4.PNG" style="width: 100%; height: auto;" />
-</div>
 
 <table>
   <tr>
