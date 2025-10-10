@@ -105,6 +105,12 @@
 | **인공지능** | AGI, 및 재귀적 자기개선 -> 발전속도 가속화 | 
 | **관광** | 더 빠르고 친환경적인 이동수단 및 관광 범위 증가(달 여행 등) | 
 | **** | | 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src=""https://github.com/user-attachments/assets/abb57eb8-d683-446b-9ddb-8c27c054a3be" width="22%" style="height: auto;" />
+  <img src="이미지2.png" width="22%" style="height: auto;" />
+  <img src="이미지3.png" width="22%" style="height: auto;" />
+  <img src="이미지4.png" width="22%" style="height: auto;" />
+</div>
 <img width="1536" height="1024" alt="TalkMedia_i_048bd8c92aba png" src="https://github.com/user-attachments/assets/abb57eb8-d683-446b-9ddb-8c27c054a3be"  />
 ***느낀점***
 
