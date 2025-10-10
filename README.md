@@ -108,9 +108,9 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="img/img1.png" style="width: 100%; height: auto;" />
-  <img src="이미지2.png" style="width: 100%; height: auto;" />
-  <img src="이미지3.png" style="width: 100%; height: auto;" />
-  <img src="이미지4.png" style="width: 100%; height: auto;" />
+  <img src="img/img2.png" style="width: 100%; height: auto;" />
+  <img src="img/img3.jpeg" style="width: 100%; height: auto;" />
+  <img src="img/img4.png" style="width: 100%; height: auto;" />
 </div>
 
 -----------------------------------
