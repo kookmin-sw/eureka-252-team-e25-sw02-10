@@ -113,7 +113,7 @@
     <td><img src="img/img2.png" width="200" /></td>
   </tr>
   <tr>
-    <td><img src="img/img3.jpeg" width="200" /></td>
+    <td><img src="img/img3.JPG" width="200" /></td>
     <td><img src="img/img4.PNG" width="200" /></td>
   </tr>
 </table>
