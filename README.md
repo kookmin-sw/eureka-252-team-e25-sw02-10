@@ -105,7 +105,7 @@
 | **** |  | 
 | **** |  | 
 | **** | | 
-
+<img width="1536" height="1024" alt="TalkMedia_i_048bd8c92aba png" src="https://github.com/user-attachments/assets/abb57eb8-d683-446b-9ddb-8c27c054a3be" />
 ***느낀점***
 
 | **이름** | **의견** |
