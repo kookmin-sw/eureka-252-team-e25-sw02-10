@@ -110,7 +110,7 @@
   <img src="img/img1.png" style="width: 100%; height: auto;" />
   <img src="img/img2.png" style="width: 100%; height: auto;" />
   <img src="img/img3.jpeg" style="width: 100%; height: auto;" />
-  <img src="img/img4.png" style="width: 100%; height: auto;" />
+  <img src="img/img4.PNG" style="width: 100%; height: auto;" />
 </div>
 
 -----------------------------------
