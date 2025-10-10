@@ -113,6 +113,17 @@
   <img src="img/img4.PNG" style="width: 100%; height: auto;" />
 </div>
 
+<table>
+  <tr>
+    <td><img src="img/img1.png" width="200" /></td>
+    <td><img src="img/img2.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="img/img3.jpeg" width="200" /></td>
+    <td><img src="img/img4.PNG" width="200" /></td>
+  </tr>
+</table>
+
 -----------------------------------
 - 기관/부서 인터뷰 ✔️  
 
