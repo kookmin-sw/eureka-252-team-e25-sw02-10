@@ -106,7 +106,12 @@
 | **관광** | 더 빠르고 친환경적인 이동수단 및 관광 범위 증가(달 여행 등) | 
 | **** | | 
 
-<img width="1536" height="1024" alt="TalkMedia_i_048bd8c92aba png" src="https://github.com/user-attachments/assets/abb57eb8-d683-446b-9ddb-8c27c054a3be"  />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="이미지1.png" style="width: 100%; height: auto;" />
+  <img src="이미지2.png" style="width: 100%; height: auto;" />
+  <img src="이미지3.png" style="width: 100%; height: auto;" />
+  <img src="이미지4.png" style="width: 100%; height: auto;" />
+</div>
 ***느낀점***
 
 | **이름** | **의견** |
