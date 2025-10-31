@@ -130,7 +130,7 @@
 
 -----------------------------------
 
-<img src="포스터/유레카.png" width="200" height ="400"/>
+<img src="eureka-poster-jpg/poster.jpg" />
 - 기관/부서 인터뷰 ✔️  
 
 - 현장 탐방 ✔️  
